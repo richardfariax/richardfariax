@@ -3,7 +3,8 @@
     <a href="https://github.com/richardfariax">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=richardfariax&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardfariax&layout=compact&langs_count=7&theme=radical"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=richardfariax&repo=systemtest&cache_seconds=86400&theme=radical"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=richardfariax&repo=systemtest&cache_seconds=86400&theme=radical"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=richardfariax&repo=richardfariax&cache_seconds=86400&theme=radical"/>
     
  <br>
 <div align="center"> 
@@ -19,3 +20,9 @@
     <img align="center" alt="Richard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
+</div>
+
+  ![Snake animation](https://github.com/incubusdev/Incubusdev/blob/output/github-contribution-grid-snake.svg)
+  <div>
+  
+</div><br/> 
