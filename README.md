@@ -9,7 +9,7 @@
 <div align="center"> 
     <a href = "mailto:richardfariax@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white%22%20target=%22_blank"></a>
     <a href="https://www.linkedin.com/in/richardfariasss/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white%22%20target=%22_blank" target="_blank"></a>
-    <a href="https://www.instagram.com/in/richardfariasss/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23333?style=for-the-badge&logo=Instagram&logoColor=white%22%20target=%22_blank" target="_blank"></a>
+    <a href="https://www.instagram.com/richardfariasss/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23333?style=for-the-badge&logo=Instagram&logoColor=white%22%20target=%22_blank" target="_blank"></a>
     <a href="https://wa.me/5548999950720?" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white%22%20target=%22_blank" target="_blank"></a>  
 </div>
 </div>
