@@ -3,8 +3,6 @@
     <a href="https://github.com/richardfariax">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=richardfariax&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardfariax&layout=compact&langs_count=7&theme=radical"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=richardfariax&repo=systemtest&cache_seconds=86400&theme=radical"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=richardfariax&repo=richardfariax&cache_seconds=86400&theme=radical"/>
  <br>
 <div align="center"> 
     <a href = "mailto:richardfariax@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white%22%20target=%22_blank"></a>
