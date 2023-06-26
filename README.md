@@ -11,15 +11,15 @@
     <a href="https://wa.me/5548999950720?" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white%22%20target=%22_blank" target="_blank"></a>  
 </div>
 </div>
-<div style="display: inline_block" align="center"><br>
+<!-- <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Richard-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Richard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Richard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
-</div>
+</div> -->
+<!-- </div>
 
   ![Snake animation](https://github.com/incubusdev/Incubusdev/blob/output/github-contribution-grid-snake.svg)
   <div>
-  
+   -->
 </div><br/> 
