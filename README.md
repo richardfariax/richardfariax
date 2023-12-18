@@ -1,7 +1,6 @@
 
 <div align="center">
     <a href="https://github.com/richardfariax">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=richardfariax&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardfariax&layout=compact&langs_count=7&theme=radical"/> 
  <br>
 <div align="center"> 
@@ -18,7 +17,3 @@
     <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 </div>
-
-  ![Snake animation](https://github.com/incubusdev/Incubusdev/blob/output/github-contribution-grid-snake.svg)
-  <div>
-</div><br/> 
