@@ -3,6 +3,10 @@
 <h1 align="center">🧑🏻‍💻 Richard Farias</h1>
 <h3 align="center">Full Stack Developer • React Native • Next.js • Node.js • TypeScript</h3>
 
+## 💡 Sobre Mim
+
+Desenvolvedor full stack com foco em soluções modernas, escaláveis e de fácil manutenção. Tenho preferência por boas práticas, tipagens corretas, código limpo e soluções robustas. Sempre buscando aprendizado contínuo e excelência técnica.
+
 <p align="center">
   <a href="mailto:richardfariax@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,21 +32,7 @@
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardfariax&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardfariax&layout=compact&langs_count=7&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,50:8f94fb,100:a18cd1&height=120&section=footer" />
 </p>
 
----
-
-## 💡 Sobre Mim
-
-Desenvolvedor full stack com foco em soluções modernas, escaláveis e de fácil manutenção. Tenho preferência por boas práticas, tipagens corretas, código limpo e soluções robustas. Sempre buscando aprendizado contínuo e excelência técnica.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2387,50:e94057,100:f27121&height=120&section=footer" />
-</p>
