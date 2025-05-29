@@ -22,16 +22,11 @@ Desenvolvedor full stack com foco em soluções modernas, escaláveis e de fáci
   </a>
 </p>
 
----
-
 ## 🚀 Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,docker,mysql,git,github,vscode" />
 </div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,50:8f94fb,100:a18cd1&height=120&section=footer" />
 </p>
